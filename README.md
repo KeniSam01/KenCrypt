@@ -1,13 +1,3 @@
- 
- '''
- __  ___  _______ .__   __.   ______ .______      ____    ____ .______   
- |  |/  / |   ____||  \ |  |  /      ||   _  \     \   \  /   / |   _  \  
- |  '  /  |  |__   |   \|  | |  ,----'|  |_)  |     \   \/   /  |  |_)  | 
- |    <   |   __|  |  . `  | |  |     |      /       \_    _/   |   ___/  
- |  .  \  |  |____ |  |\   | |  `----.|  |\  \----.    |  |     |  |      
- |__|\__\ |_______||__| \__|  \______|| _| `._____|    |__|     | _|
- '''
-
 # canivete_br_de_criptografia
 Script feito para estudo e para quem quer transformar suas senhas em HASH de diversos tipos de criptografias.
 
