@@ -1,6 +1,11 @@
 # canivete_br_de_criptografia
 Script feito para estudo e para quem quer transformar suas senhas em HASH de diversos tipos de criptografias.
 
+# Install
+## Linux
+
+git clone https://github.com/KeniSam01/canivete_de_criptografia
+
 # Examples
 
 python gerador_hash.py -h (para ajuda)
