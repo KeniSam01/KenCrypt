@@ -12,17 +12,21 @@ git clone https://github.com/KeniSam01/canivete_de_criptografia
 
 python gerador_hash.py -h 
 
+
 ### Para gerar uma HASH MD5
 
 python gerador_hash.py --md5 palavra
+
 
 ### Para gerar uma HASH SHA1
 
 python gerador_hash.py --sha1 palavra
 
+
 ### Para gerar uma HASH SHA224
 
 python gerador_hash.py --sha224 palavra
+
 
 ### Para gerar uma HASH SHA256
 
