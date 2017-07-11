@@ -1,10 +1,10 @@
-# canivete_br_de_criptografia
+# KenCrypt
 Script feito para estudo e para quem quer transformar suas senhas em HASH de diversos tipos de criptografias.
 
 # Install
 ## Linux
 
-git clone https://github.com/KeniSam01/canivete_de_criptografia
+git clone https://github.com/KeniSam01/KenCrypt
 
 # Examples
 
