@@ -8,16 +8,30 @@ git clone https://github.com/KeniSam01/canivete_de_criptografia
 
 # Examples
 
-python gerador_hash.py -h (para ajuda)
+### Para ajuda
 
-python gerador_hash.py --md5 palavra (para gerar uma hash em MD5)
+python gerador_hash.py -h 
 
-python gerador_hash.py --sha1 palavra (para gerar uma hash em SHA1)
+### Para gerar uma HASH MD5
 
-python gerador_hash.py --sha224 palavra (para gerar uma hash em SHA224)
+python gerador_hash.py --md5 palavra
 
-python gerador_hash.py --sha256 palavra (para gerar uma hash em SHA256)
+### Para gerar uma HASH SHA1
 
-python gerador_hash.py --sha384 palavra (para gerar uma hash em SHA384)
+python gerador_hash.py --sha1 palavra
 
-python gerador_hash.py --sha512 palavra (para gerar uma hash em SHA512)
+### Para gerar uma HASH SHA224
+
+python gerador_hash.py --sha224 palavra
+
+### Para gerar uma HASH SHA256
+
+python gerador_hash.py --sha256 palavra
+
+### Para gerar uma HASH SHA384
+
+python gerador_hash.py --sha384 palavra
+
+### Para gerar uma HASH SHA12
+
+python gerador_hash.py --sha512 palavra
