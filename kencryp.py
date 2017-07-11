@@ -11,13 +11,16 @@ def clear():
 def banner():
     time.sleep(1)
     print '\033[32m''''                                                   
-  __  ___  _______ .__   __.   ______ .______      ____    ____ .______   
- |  |/  / |   ____||  \ |  |  /      ||   _  \     \   \  /   / |   _  \  
- |  '  /  |  |__   |   \|  | |  ,----'|  |_)  |     \   \/   /  |  |_)  | 
- |    <   |   __|  |  . `  | |  |     |      /       \_    _/   |   ___/  
- |  .  \  |  |____ |  |\   | |  `----.|  |\  \----.    |  |     |  |      
- |__|\__\ |_______||__| \__|  \______|| _| `._____|    |__|     | _|      
-                                                                                       
+`7MMF' `YMM'                        .g8"""bgd                                
+  MM   .M'                        .dP'     `M                                
+  MM .d"      .gP"Ya  `7MMpMMMb.  dM'       ` `7Mb,od8 `7M'   `MF'`7MMpdMAo. 
+  MMMMM.     ,M'   Yb   MM    MM  MM            MM' "'   VA   ,V    MM   `Wb 
+  MM  VMA    8M""""""   MM    MM  MM.           MM        VA ,V     MM    M8 
+  MM   `MM.  YM.    ,   MM    MM  `Mb.     ,'   MM         VVV      MM   ,AP 
+.JMML.   MMb. `Mbmmd' .JMML  JMML.  `"bmmmd'  .JMML.       ,V       MMbmmd'  
+                                                          ,V        MM       
+                                                       OOb"       .JMML.                                                                                       
+
 ''''\033[0;0m'
 
 def Initializing():
