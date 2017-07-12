@@ -1,4 +1,4 @@
-#coding: utf-8
+# -*- coding: UTF-8 -*-
 
 #Agradecimentos ao Marcio Garcia pela ajuda com o script <3
 
