@@ -1,10 +1,14 @@
 # KenCrypt
 Script feito para estudo e para quem quer transformar suas senhas em HASH de diversos tipos de criptografias.
 
-# Install
+# Install & Use
 ## Linux
 
-git clone https://github.com/KeniSam01/KenCrypt
+$ git clone https://github.com/KeniSam01/KenCrypt
+
+$ cd KenCrypt
+
+$ python kencrypt.py 'args'
 
 # Examples
 
