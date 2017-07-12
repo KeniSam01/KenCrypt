@@ -6,7 +6,7 @@ Script feito para estudo e para quem quer transformar suas senhas em HASH de div
 
 $ git clone https://github.com/KeniSam01/KenCrypt
 
-$ cd KenCrypt
+$ cd KenCrypt/
 
 $ python kencrypt.py 'args'
 
