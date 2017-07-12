@@ -44,6 +44,6 @@ python gerador_hash.py --sha384 palavra
 
 python gerador_hash.py --sha512 palavra
 
-## Demonstration
+## Demonstration:
 
 https://www.youtube.com/watch?v=QoUpEGBcSBM
