@@ -43,3 +43,7 @@ python gerador_hash.py --sha384 palavra
 ### Para gerar uma HASH SHA12
 
 python gerador_hash.py --sha512 palavra
+
+## Demonstration
+
+https://www.youtube.com/watch?v=QoUpEGBcSBM
