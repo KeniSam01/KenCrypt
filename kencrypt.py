@@ -16,15 +16,15 @@ def clear():
 def banner():
     time.sleep(1)
     print '''                                                   
-        `7MMF' `YMM'                        .g8"""bgd                                
-          MM   .M'                        .dP'     `M                                
-          MM .d"      .gP"Ya  `7MMpMMMb.  dM'       ` `7Mb,od8 `7M'   `MF'`7MMpdMAo. 
-          MMMMM.     ,M'   Yb   MM    MM  MM            MM' "'   VA   ,V    MM   `Wb 
-          MM  VMA    8M""""""   MM    MM  MM.           MM        VA ,V     MM    M8 
-          MM   `MM.  YM.    ,   MM    MM  `Mb.     ,'   MM         VVV      MM   ,AP 
-        .JMML.   MMb. `Mbmmd' .JMML  JMML.  `"bmmmd'  .JMML.       ,V       MMbmmd'  
-                                                                  ,V        MM       
-                                                               OOb"       .JMML.                                                                                       
+`7MMF' `YMM'                        .g8"""bgd                                
+  MM   .M'                        .dP'     `M                                
+  MM .d"      .gP"Ya  `7MMpMMMb.  dM'       ` `7Mb,od8 `7M'   `MF'`7MMpdMAo. 
+  MMMMM.     ,M'   Yb   MM    MM  MM            MM' "'   VA   ,V    MM   `Wb 
+  MM  VMA    8M""""""   MM    MM  MM.           MM        VA ,V     MM    M8 
+  MM   `MM.  YM.    ,   MM    MM  `Mb.     ,'   MM         VVV      MM   ,AP 
+.JMML.   MMb. `Mbmmd' .JMML  JMML.  `"bmmmd'  .JMML.       ,V       MMbmmd'  
+                                                          ,V        MM       
+                                                       OOb"       .JMML.                                     
           '''
 
 
@@ -130,7 +130,8 @@ def sha512():
         hash = hashlib.sha512()
         hash.update(value)
         time.sleep(1)
-        print hour(), "[INFO] Successful Process ", time.sleep(1)
+        print hour(), "[INFO] Successful Process "
+        time.sleep(1)
         print hour(), "[INFO] HASH: ", hash.hexdigest(), exit()
 
 
