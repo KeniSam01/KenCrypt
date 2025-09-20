@@ -1,48 +1,48 @@
 # KenCrypt
-Script feito para estudo e para quem quer transformar suas senhas em HASH de diversos tipos de criptografias.
+Transform text into hash 
 
 # Install & Use
 ## Linux
 
-$ git clone https://github.com/KeniSam01/KenCrypt
+$ git clone https://github.com/KeniSam01/KCrypt
 
-$ cd KenCrypt/
+$ cd KCrypt/
 
 $ python kencrypt.py 'args'
 
 # Examples
 
-### Para ajuda
+### For Help
 
 python gerador_hash.py -h 
 
 
-### Para gerar uma HASH MD5
+### For MD5 Hash
 
-python gerador_hash.py --md5 palavra
-
-
-### Para gerar uma HASH SHA1
-
-python gerador_hash.py --sha1 palavra
+python gerador_hash.py --md5 text
 
 
-### Para gerar uma HASH SHA224
+### For SHA1 Hash
 
-python gerador_hash.py --sha224 palavra
+python gerador_hash.py --sha1 text
 
 
-### Para gerar uma HASH SHA256
+### For SHA224 Hash
 
-python gerador_hash.py --sha256 palavra
+python gerador_hash.py --sha224 text
 
-### Para gerar uma HASH SHA384
 
-python gerador_hash.py --sha384 palavra
+### For SHA256 Hash
 
-### Para gerar uma HASH SHA12
+python gerador_hash.py --sha256 text
 
-python gerador_hash.py --sha512 palavra
+### For SHA384 Hash
+
+python gerador_hash.py --sha384 text
+
+### For SHA12 Hash
+
+python gerador_hash.py --sha512 text
 
 ## Demonstration:
 
