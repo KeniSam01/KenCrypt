@@ -1,6 +1,6 @@
 # -*- coding: UTF-8 -*-
 
-#Agradecimentos ao Marcio Garcia pela ajuda com o script <3
+#Thanks https://github.com/MarcioRAGarcia
 
 from datetime import datetime
 import time
